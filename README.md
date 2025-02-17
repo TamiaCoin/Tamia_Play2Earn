@@ -64,4 +64,4 @@ The game is based on a transparent distribution of 100 Trillions tokens :
 
 Tamia Play2Earn is an **open-source** project licensed under the **MIT License.** See [LICENSE](https://github.com/TamiaCoin/Tamia_Play2Earn/blob/main/LICENSE) for details.
 
-**Copyright (c) 2025 TAMIA Project**
+**Copyright (c) 2025 $TAMIA Project**
