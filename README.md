@@ -45,18 +45,17 @@ Players can accumulate tokens based on their score. Here is the breakdown of rew
 >After deployment, your **program ID** will be displayed. Keep it safe!
 <br>
 
-## 🪙 Token Economy
-
-The game is based on a transparent distribution of 100 Trillions tokens :
-
-| Catégory  | % of supply | Amount in tokens |
-| ------------- | ------------- | ------------- |
-| 🌐📈 Liquidity (DEX/CEX) | 50% | 50 Trillions |
-| 🎮🎁 P2E ($TAMIA game) Rewards | 18% | 18 Trillions |
-| 📢🤝 Marketing & Partnerships | 10% | 10 Trillions |
-| 👥 Team & Development | 7% | 7 Trillions |
-| 🔥 Possible Burn and Reserves | 10% | 10 Trillions |
-| 👤 Creator | 5% | 5 Trillions |
+>[!NOTE]
+>## 🪙 Token Economy
+>The game is based on a transparent distribution of 100 Trillions tokens :
+> | Catégory  | % of supply | Amount in tokens |
+> | ------------- | ------------- | ------------- |
+> | 🌐📈 Liquidity (DEX/CEX) | 50% | 50 Trillions |
+> | 🎮🎁 P2E ($TAMIA game) Rewards | 18% | 18 Trillions |
+> | 📢🤝 Marketing & Partnerships | 10% | 10 Trillions |
+> | 👥 Team & Development | 7% | 7 Trillions |
+> | 🔥 Possible Burn and Reserves | 10% | 10 Trillions |
+> | 👤 Creator | 5% | 5 Trillions |
 
 <br>
 
