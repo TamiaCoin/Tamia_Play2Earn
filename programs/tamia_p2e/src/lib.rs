@@ -13,10 +13,21 @@ mod tamia_p2e {
         let token_mint = &ctx.accounts.token_mint;
         let player_token_account = &ctx.accounts.player_token_account;
         let token_program = &ctx.accounts.token_program;
+
+        // Check that the score is higher than the player's old score
+        require!(score > game_stable.best_score, Play2EarnError::InvalidScore);
+        game_state.best_score = score;
+
+        // Calculate the reward
+        let reward = calculate_reward(score);
+        require!(reward > 0, Play2EarnError::NoReward);
+
+        // Transfer tokens at player
+
         msg!("");
         Ok(())
     }
 }
 
 #[derive(Accounts)]
-pub struct SubmitScore {}
+pub struct SubmitScore<'info>
