@@ -1,16 +1,17 @@
 use anchor_lang::prelude::*;
+use anchor_spl::token::{self, Mint, Token, TokenAccount, Transfer};
 
-declare_id!("vwgzz5oBpsKtHcySxXk9rjBXvKCAvwg1W1Yh2Ycj1x5");
+declare_id!("");
 
 #[program]
-pub mod tamia_p2e {
+mod tamia_p2e {
     use super::*;
 
-    pub fn initialize(ctx: Context<Initialize>) -> Result<()> {
-        msg!("Greetings from: {:?}", ctx.program_id);
+    pub fn submit_score(ctx: Context<SubmitScore>, score: u64) -> Result<()> {
+        msg!("");
         Ok(())
     }
 }
 
 #[derive(Accounts)]
-pub struct Initialize {}
+pub struct SubmitScore {}
