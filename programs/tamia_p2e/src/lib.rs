@@ -37,4 +37,42 @@ mod tamia_p2e {
 }
 
 #[derive(Accounts)]
-pub struct SubmitScore<'info>{}
+pub struct SubmitScore<'info> {
+    #[account(mut)]
+    pub player: Signer<'info>,
+
+    #[account(mut)]
+    pub game_state: Account<'info, GameState>,
+    
+    #[account(mut)]
+    pub player_token_account: Account<'info, TokenAccount>,
+
+    #[account(mut)]
+    pub treasury_token_account: Account<'info, TokenAccount>,
+
+    pub token_program: Program<'info, Token>,
+}
+
+#[account]
+pub struct GameState {
+    pub best_score: u64,
+    pub treasury_token_account: Pubkey,
+}
+
+#[error_code]
+pub enum Play2EarnError {
+    #[msg("The submitted score is invalid")]
+    InvalidScore,
+    #[msg("No reward for this score")]
+    NoReward,
+}
+
+fn calculate_reward(score: u64) -> u64 {
+    match score {
+        0..=100 => 0,
+        101..=200 => score * 10_000,
+        201..=400 => score * 50_000,
+        401..=999 => score * 100_000,
+        1000..=u64::MAX => score * 200_000 * 2, // Jackpot x2 :)
+    }
+}
