@@ -23,11 +23,18 @@ mod tamia_p2e {
         require!(reward > 0, Play2EarnError::NoReward);
 
         // Transfer tokens at player
+        let cpi_accounts = Transfer {
+            from: game_state.treasury_token_account.to_account_info(),
+            to: player_token_account.to_account_info(),
+            authority: game_state.to_account_info(),
+        };
+        let cpi_ctx = CpiContext::new(token_program.to_account_info(), cpi_accounts);
+        token::transfer(cpi_ctx, reward)?;
 
-        msg!("");
+        msg!("Score validated: {} | Reward: {} tokens", score, reward);
         Ok(())
     }
 }
 
 #[derive(Accounts)]
-pub struct SubmitScore<'info>
+pub struct SubmitScore<'info>{}
