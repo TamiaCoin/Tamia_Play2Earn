@@ -1,4 +1,4 @@
-<div align="left"><img src="https://github.com/user-attachments/assets/318fae13-5f23-4b8b-8136-9fa4cd4d819e" alt="tamiacoin-game" width=400>&ensp;&ensp;&ensp;<img src="https://github.com/user-attachments/assets/605d52e0-dfb7-4096-ae0f-54990648bcf2" alt="tamiacoin" width=550/></div>
+<div align="center"><img src="https://github.com/user-attachments/assets/318fae13-5f23-4b8b-8136-9fa4cd4d819e" alt="tamiacoin-game" width=400>&ensp;&ensp;&ensp;<img src="https://github.com/user-attachments/assets/605d52e0-dfb7-4096-ae0f-54990648bcf2" alt="tamiacoin" width=550/></div>
 
 # Tamia Play2Earn ($TAMIA) 
 ***Earn while you play!*** 🎮💰
