@@ -1,14 +1,14 @@
 <div align="center"><img src="https://github.com/user-attachments/assets/318fae13-5f23-4b8b-8136-9fa4cd4d819e" alt="tamiacoin-game" width=350>&ensp;&ensp;&ensp;<img src="https://github.com/user-attachments/assets/605d52e0-dfb7-4096-ae0f-54990648bcf2" alt="tamiacoin" width=450/></div>
 
-# Tamia Play2Earn ($TAMIA) 
-***Earn while you play!*** 🎮💰
+# Tamia Play2Earn — Flap. Score. Earn. ($TAMIA) 
+***Powered by $TAMIA*** 🐿️🎮💰
 
-Tamia Play2Earn is a game based on the concept of Flappy Bird, integrated into the Solana blockchain. By playing and achieving high scores, players can earn **$TAMIA** tokens.
-The project is built with **Anchor** and **Rust** for a smooth integration with the Solana ecosystem. 🚀
+**Tamia Play2Earn** is an arcade-inspired blockchain game built on Solana, where your reflexes turn into rewards. Inspired by Flappy Bird, this high-score game integrates **on-chain token incentives**, allowing players to earn **$TAMIA** tokens based on performance.
+Built with **Rust** and **Anchor**, Tamia Play2Earn combines addictive gameplay with real Web3 utility. 🚀
 <br><br>
 
-## 🎮 How to play and win?
-Players can accumulate tokens based on their score. Here is the breakdown of rewards:
+## 🎮 Gameplay & Rewards
+Climb the leaderboard and earn $TAMIA tokens based on your score. The better you play, the more you earn.
 
 | Score Range  | Reward per Point | Bonus |
 | ------------- | ------------- | ------------- |
@@ -20,11 +20,12 @@ Players can accumulate tokens based on their score. Here is the breakdown of rew
 | **Top 1% of Leaderboard** | **Additional Bonus** | **Special Reward 🎖️** |
 <br>
 
-## 🚀 Features
-- **Play & Win**: The more points you score, the more $TAMIA tokens you earn.
-- **Solana Smart Contract**: Based on Anchor & Rust.
-- **Player Ranking**: Additional rewards for high scores.
-- **Dynamic Reward System**: Tailored to favor active and talented players.
+## 🚀 Key Features
+- 🎯 **Skill-Based Earnings** — Real rewards for real gameplay.
+- ⚙️ **Smart Contract-Powered** — Built with Anchor + Rust on Solana.
+- 📊 **Leaderboard System** — Weekly top players receive bonus airdrops.
+- 🔄 **Dynamic Rewards** — Adaptive token logic based on score ranges.
+- 🌍 **Open-Source** — Transparent, community-auditable codebase.
 <br><br> 
 
 >[!IMPORTANT]  
@@ -34,20 +35,19 @@ Players can accumulate tokens based on their score. Here is the breakdown of rew
 >- **Solana CLI** → [Install Guide](https://docs.solana.com/cli/install-solana-cli-tools)
 >- **Rust** → [Install Guide](https://www.rust-lang.org/learn/get-started)
 >- **Anchor Framework** → [Install Guide](https://project-serum.github.io/anchor/getting->started/installation.html)
->### 2️⃣ Build the contract
+>### 2️⃣ Build & Deploy
 >```bash
 >anchor build
 >```
->### 3️⃣ Deploy to Solana's Devnet
 >```bash 
 >anchor deploy
 >```
->After deployment, your **program ID** will be displayed. Keep it safe!
+>After deployment, keep your **program ID** securely saved.
 <br>
 
 >[!NOTE]
->## 🪙 Token Economy
->The game is based on a transparent distribution of 100 Trillions tokens :
+>## 🪙 $TAMIA Token Economy
+>The Play2Earn model is fueled by a fair and transparent allocation of 100 Trillion $TAMIA tokens:
 > | Catégory  | % of Supply | Amount (Tokens) |
 > | ------------- | ------------- | ------------- |
 > | 🌐📈 Liquidity (DEX/CEX) | 50% | 50 Trillion |
@@ -61,6 +61,7 @@ Players can accumulate tokens based on their score. Here is the breakdown of rew
 
 ## 📝 License
 
-Tamia Play2Earn is an **open-source** project licensed under the **MIT License.** See [LICENSE](https://github.com/TamiaCoin/Tamia_Play2Earn/blob/main/LICENSE) for details.
+Tamia Play2Earn is released under the **MIT License.**<br>
+See [LICENSE](https://github.com/TamiaCoin/Tamia_Play2Earn/blob/main/LICENSE) for details.
 
-**Copyright (c) 2025 $TAMIA Project** 
+**© 2025 $TAMIA Project**
