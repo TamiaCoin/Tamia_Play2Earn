@@ -10,14 +10,14 @@ The project is built with **Anchor** and **Rust** for a smooth integration with 
 ## 🎮 How to play and win?
 Players can accumulate tokens based on their score. Here is the breakdown of rewards:
 
-| Score achieved  | Reward per point | Bonus |
+| Score Range  | Reward per Point | Bonus |
 | ------------- | ------------- | ------------- |
 | ≤ 100 | 0 tokens (warm-up 🏁) | None ❌ |
-| 101 - 200 | 0.01M tokens per point earned | None ❌ |
-| 201 - 400 | 0.05M tokens per point earned | None ❌ |
-| 401 - 999 | 0.1M tokens per point earned | None ❌ |
-| 1000+ | 0.2M tokens per point earned | Jackpot x2 🏆🎰🤑 |
-| **Top 1% of the leaderboard** | **Additional bonus** | **Special Reward 🎖️** |
+| 101 - 200 | 0.01M tokens per point | None ❌ |
+| 201 - 400 | 0.05M tokens per point | None ❌ |
+| 401 - 999 | 0.1M tokens per point | None ❌ |
+| 1000+ | 0.2M tokens per point | Jackpot x2 🏆🎰🤑 |
+| **Top 1% of Leaderboard** | **Additional Bonus** | **Special Reward 🎖️** |
 <br>
 
 ## 🚀 Features
