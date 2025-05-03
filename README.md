@@ -48,14 +48,14 @@ Players can accumulate tokens based on their score. Here is the breakdown of rew
 >[!NOTE]
 >## 🪙 Token Economy
 >The game is based on a transparent distribution of 100 Trillions tokens :
-> | Catégory  | % of supply | Amount in tokens |
+> | Catégory  | % of Supply | Amount (Tokens) |
 > | ------------- | ------------- | ------------- |
-> | 🌐📈 Liquidity (DEX/CEX) | 50% | 50 Trillions |
-> | 🎮🎁 P2E ($TAMIA game) Rewards | 18% | 18 Trillions |
-> | 📢🤝 Marketing & Partnerships | 10% | 10 Trillions |
-> | 👥 Team & Development | 7% | 7 Trillions |
-> | 🔥 Possible Burn and Reserves | 10% | 10 Trillions |
-> | 👤 Creator | 5% | 5 Trillions |
+> | 🌐📈 Liquidity (DEX/CEX) | 50% | 50 Trillion |
+> | 🎮🎁 P2E ($TAMIA game) Rewards | 18% | 18 Trillion |
+> | 📢🤝 Marketing & Partnerships | 10% | 10 Trillion |
+> | 👥 Team & Development | 7% | 7 Trillion |
+> | 🔥 Reserve / Potential Burns | 10% | 10 Trillion |
+> | 👤 Creator | 5% | 5 Trillion |
 
 <br>
 
