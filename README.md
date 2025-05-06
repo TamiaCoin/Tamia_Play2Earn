@@ -59,6 +59,14 @@ Climb the leaderboard and earn $TAMIA tokens based on your score. The better you
 
 <br>
 
+## 🔗 Ecosystem Links
+- 🪙 [$TAMIA Token Repository](https://github.com/TamiaCoin/Tamia_token)
+- 📄 [$TAMIA White Paper](https://github.com/TamiaCoin/White_Paper)
+- 🌐 [Official Website](https://tamia.club)
+- 🧑‍🤝‍🧑  Join the community: [Follow on X](https://twitter.com/TamiaCoin) and [Telegram](https://t.me/).
+
+<br>
+
 ## 📝 License
 
 Tamia Play2Earn is released under the **MIT License.**<br>
