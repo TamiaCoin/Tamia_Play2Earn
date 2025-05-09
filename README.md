@@ -68,7 +68,7 @@ Whether it’s gameplay suggestions, reward balancing, or smart contract logic �
 
 ## 🔗 Ecosystem Links
 - 🪙 [$TAMIA Token Repository](https://github.com/TamiaCoin/Tamia_token)
-- 📄 [$TAMIA White Paper](https://github.com/TamiaCoin/White_Paper)
+- 📄 [$TAMIA White Paper](https://github.com/TamiaCoin/WhitePaper)
 - 🌐 [Official Website](https://tamia.club)
 - 💬 [Community Chat (Telegram)](https://t.me/TamiaCoinCommunity)
 - 📢 [Announcements Channel (Telegram)](https://t.me/TamiaCoin)
