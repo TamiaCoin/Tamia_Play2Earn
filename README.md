@@ -72,7 +72,7 @@ Whether it’s gameplay suggestions, reward balancing, or smart contract logic �
 - 🌐 [Official Website](https://tamia.club)
 - 💬 [Community Chat (Telegram)](https://t.me/TamiaCoinCommunity)
 - 📢 [Announcements Channel (Telegram)](https://t.me/TamiaCoin)
-- 🧑‍🤝‍🧑 [Follow the community on X](https://twitter.com/TamiaCoin)
+- 🐦 [Follow the community on X](https://twitter.com/TamiaCoin)
 
 <br>
 
