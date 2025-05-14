@@ -3,6 +3,14 @@
 # Tamia Play2Earn — Flap. Score. Earn. ($TAMIA) 
 ***Powered by $TAMIA*** 🐿️🎮💰
 
+![Solana](https://img.shields.io/badge/Solana-Devnet%20Ready-purple?logo=solana)
+![Play2Earn](https://img.shields.io/badge/Model-Play2Earn-blue)
+![License](https://img.shields.io/github/license/TamiaCoin/Tamia_Play2Earn)
+![Status](https://img.shields.io/badge/Status-Beta-orange)
+![Leaderboard](https://img.shields.io/badge/Feature-Leaderboard-critical)
+![Game](https://img.shields.io/badge/Game-Flappy%20Style-yellow?logo=flutter)
+
+
 **Tamia Play2Earn** is an arcade-inspired blockchain game built on Solana, where your reflexes turn into rewards. Inspired by Flappy Bird, this high-score game integrates **on-chain token incentives**, allowing players to earn **$TAMIA** tokens based on performance.
 Built with **Rust** and **Anchor**, Tamia Play2Earn combines addictive gameplay with real Web3 utility. 🚀
 <br><br>
