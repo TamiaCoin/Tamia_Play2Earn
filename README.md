@@ -1,6 +1,6 @@
 <div align="center"><img src="https://github.com/user-attachments/assets/318fae13-5f23-4b8b-8136-9fa4cd4d819e" alt="tamiacoin-game" width=350>&ensp;&ensp;&ensp;<img src="https://github.com/user-attachments/assets/605d52e0-dfb7-4096-ae0f-54990648bcf2" alt="tamiacoin" width=450/></div>
 
-# Tamia Play2Earn — Flap. Score. Earn. ($TAMIA) 
+# Flappy Chipmunk (Tamia Play2Earn) — Flap. Score. Earn. ($TAMIA) 
 ***Powered by $TAMIA*** 🐿️🎮💰
 
 ![Solana](https://img.shields.io/badge/Solana-Devnet%20Ready-purple?logo=solana)
@@ -11,7 +11,7 @@
 ![Game](https://img.shields.io/badge/Game-Flappy%20Style-yellow?logo=flutter)
 
 
-**Tamia Play2Earn** is an arcade-inspired blockchain game built on Solana, where your reflexes turn into rewards. Inspired by Flappy Bird, this high-score game integrates **on-chain token incentives**, allowing players to earn **$TAMIA** tokens based on performance.
+**Flappy Chipmunk** is an arcade-inspired blockchain (Play-to-Earn) game built on Solana, where your reflexes turn into rewards. Inspired by Flappy Bird, this high-score game integrates **on-chain token incentives**, allowing players to earn **$TAMIA** tokens based on performance.
 Built with **Rust** and **Anchor**, Tamia Play2Earn combines addictive gameplay with real Web3 utility. 🚀
 <br><br>
 
@@ -71,7 +71,7 @@ Climb the leaderboard and earn $TAMIA tokens based on your score. The better you
 
 <div align="center"><img src="https://github.com/user-attachments/assets/8553e53d-cbb3-43ca-a9ce-b79929d0a110" alt="tamiacoin community" width=400/></div>
 
-The **Tamia Play2Earn** game is still evolving, and your ideas can shape how it grows!
+The **Flappy Chipmunk** game is still evolving, and your ideas can shape how it grows!
 Whether it’s gameplay suggestions, reward balancing, or smart contract logic — **feedback is welcome.** <br>
 ➡️ Use [Discussions](https://github.com/TamiaCoin/Tamia_Play2Earn/discussions) or open an Issue to contribute your thoughts.
 
