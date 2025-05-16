@@ -1,6 +1,6 @@
 <div align="center"><img src="https://github.com/user-attachments/assets/318fae13-5f23-4b8b-8136-9fa4cd4d819e" alt="tamiacoin-game" width=350>&ensp;&ensp;&ensp;<img src="https://github.com/user-attachments/assets/605d52e0-dfb7-4096-ae0f-54990648bcf2" alt="tamiacoin" width=450/></div>
 
-# Flappy Chipmunk (Tamia Play2Earn) — Flap. Score. Earn. ($TAMIA) 
+# Flappy Chipmunk ($TAMIA Play2Earn) — Flap. Score. Earn.
 ***Powered by $TAMIA*** 🐿️🎮💰
 
 ![Solana](https://img.shields.io/badge/Solana-Devnet%20Ready-purple?logo=solana)
