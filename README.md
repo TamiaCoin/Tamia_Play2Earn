@@ -68,6 +68,9 @@ Climb the leaderboard and earn $TAMIA tokens based on your score. The better you
 <br>
 
 ## ✍️ Contributions & Feedback
+
+<div align="center"><img src="https://github.com/user-attachments/assets/8553e53d-cbb3-43ca-a9ce-b79929d0a110" alt="tamiacoin community" width=400/></div>
+
 The **Tamia Play2Earn** game is still evolving, and your ideas can shape how it grows!
 Whether it’s gameplay suggestions, reward balancing, or smart contract logic — **feedback is welcome.** <br>
 ➡️ Use [Discussions](https://github.com/TamiaCoin/Tamia_Play2Earn/discussions) or open an Issue to contribute your thoughts.
