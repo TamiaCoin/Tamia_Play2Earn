@@ -1,6 +1,6 @@
 <div align="center"><img src="https://github.com/user-attachments/assets/318fae13-5f23-4b8b-8136-9fa4cd4d819e" alt="tamiacoin-game" width=350>&ensp;&ensp;&ensp;<img src="https://github.com/user-attachments/assets/605d52e0-dfb7-4096-ae0f-54990648bcf2" alt="tamiacoin" width=450/></div>
 
-# Flappy Chipmunk ($TAMIA Play2Earn) — Flap. Score. Earn.
+# Flappy Chipmunk ($TAMIA Play2Earn Smart Contract) — Flap. Score. Earn.
 ***Powered by $TAMIA*** 🐿️🎮💰
 
 ![Solana](https://img.shields.io/badge/Solana-Devnet%20Ready-purple?logo=solana)
@@ -78,7 +78,8 @@ Whether it’s gameplay suggestions, reward balancing, or smart contract logic �
 <br>
 
 ## 🔗 Ecosystem Links
-- 🪙 [$TAMIA Token Repository](https://github.com/TamiaCoin/Tamia_token)
+- 🪙 [$TAMIA Token Smart Contract Repository](https://github.com/TamiaCoin/Tamia_token)
+- 🐿️🎮 [Flappy Chipmunk Game](https://github.com/TamiaCoin/Flappy_Chipmunk)
 - 📄 [$TAMIA White Paper](https://github.com/TamiaCoin/WhitePaper)
 - 🌐 [Official Website](https://tamia.club)
 - 💬 [Community Chat (Telegram)](https://t.me/TamiaCoinCommunity)
